@@ -1,4 +1,4 @@
-# 📡 Churn Prediction 🚀  
+# 📡 Churn Prediction 
 
 A machine learning project for predicting customer churn in a telecommunications company.  
 
