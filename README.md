@@ -7,7 +7,7 @@ Churn prediction involves identifying customers who are likely to stop using a c
 
 This project aims to classify customers based on individual user data, predicting whether they will cancel their subscription (**0️⃣ = stays, 1️⃣ = leaves**). To achieve the best predictive performance, multiple **🤖 Machine Learning algorithms** were tested and evaluated.  
 
-## 🛠️ Technologies & Techniques  
+## 🛠️ Techniques  
 This project incorporates key **Machine Learning techniques**, including:  
 - **🔍 Exploratory Data Analysis (EDA)** 📊  
 - **🛠️ Feature Engineering**  
